@@ -1,4 +1,3 @@
 #about game
 
-basic application of javaScript
-!!!!
+basic application of javaScript !!!!
