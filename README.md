@@ -2,4 +2,4 @@
 
 basic application of javaScript !!!!
 
-here is the edit doing in the vs code.
+here is the edit doing in the vs editior.
